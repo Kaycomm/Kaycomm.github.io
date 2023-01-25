@@ -19,7 +19,7 @@ html, body {
 
 .container {
   display: grid;
-  grid-template-columns: 1fr 460px 600px 3fr;
+  grid-template-columns: 1fr 460px 600px 1fr;
   grid-template-areas:
     ". left right .";
   column-gap: 80px;
